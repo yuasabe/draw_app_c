@@ -1,0 +1,12 @@
+* list.c のコンパイル
+% gcc -o list list.c
+
+
+* paint.c のコンパイル
+% gcc -o paint paint.c
+
+実行前にターミナルを適宜大きくして Ctrl+l (エル)
+
+* paint_linearlist.c
+
+線形リストで履歴管理を実装してみよう

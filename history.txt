@@ -1,0 +1,16 @@
+line 2 2 100 2
+line 10 15 30 35
+circle 40 20 8
+line 10 10 20 20
+line 10 20 140 20
+circle 100 20 10
+circle 100 20 5
+circle 100 20 3
+line 10 30 100 30
+pen
+line 10 10 30 10
+circle 40 20 5
+pen @
+circle 70 15 6
+pen O
+line 140 10 140 30

@@ -1,0 +1,4 @@
+list.c: 線形リスト演習用
+paint.c: 配列とtail index で履歴保存を実装したもの
+paint_linearlist.c: 線形リストで履歴保存を実装する雛形
+yamanote.txt: 最近話題の山手線
